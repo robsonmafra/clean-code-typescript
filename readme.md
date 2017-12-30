@@ -7,6 +7,7 @@
 - [Names](#names)
 - [Functions](#functions)
 - [Comments](#comments)
+- [Books](#books)
 - [Contribution](#contribution)
 
 ## Names
@@ -14,6 +15,10 @@
 ## Functions
 
 ## Comments
+
+## Books
+
+I hope these notes have been helpful, and I also hope they encourage you to buy and read [Clean Code](https://sites.google.com/site/unclebobconsultingllc/books) by Robert C. Martin.
 
 ## Contribution
 
