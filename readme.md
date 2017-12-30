@@ -2,6 +2,16 @@
 :put_litter_in_its_place: Clean Code concepts adapted for TypeScript :sparkles:
 
 
+## Contents
+
+- [Contribution](#contribution)
+
+## Contribution
+
+Please read the [contribution guidelines](./contributing.md) to get started.
+
+:star: Suggestions and PRs are welcome! :star:
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
