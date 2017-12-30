@@ -6,15 +6,30 @@
 ## Contents
 - [Names](#names)
 - [Functions](#functions)
+- [Classes](#classes)
 - [Comments](#comments)
+- [Tests](#tests)
 - [Books](#books)
 - [Contribution](#contribution)
 
 ## Names
 
+We name variables, functions, arguments, classes, packages, source files etc. Because we do so much of it, we need do it well.
+
 ## Functions
 
+## Classes
+
+
 ## Comments
+
+> Don’t comment bad code — rewrite it.” ― Brian W. Kernighan
+
+## Tests
+
+> We don’t have time to write tests! 😱
+
+
 
 ## Books
 
