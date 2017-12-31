@@ -1,4 +1,7 @@
 # Clean Code for Typescript
+
+[<img src="https://cdn.rawgit.com/gilbarbara/logos/ff09fd0628bc220932f3e430224b18d836e2369d/logos/typescript-icon.svg" align="right" width="70">](http://www.typescriptlang.org)
+
 :put_litter_in_its_place: Clean Code concepts adapted for TypeScript :sparkles:
 
 > Clean code is a code written by someone who cares. - Michael Feathers
